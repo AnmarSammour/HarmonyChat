@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HarmonyChat</string>
+    <string name="close_button_description">Close the dialog</string>
+</resources>

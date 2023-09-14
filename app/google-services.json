@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571975047658",
+    "project_id": "harmonychat-3d98d",
+    "storage_bucket": "harmonychat-3d98d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571975047658:android:767eb91021efaa241d3a93",
+        "android_client_info": {
+          "package_name": "com.example.harmonychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571975047658-finnd6uri5ta9dqtik3hc6ut5hg97663.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQcsRQthdcwBAKrLn2Jzpsf3ISKmOaCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571975047658-finnd6uri5ta9dqtik3hc6ut5hg97663.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
