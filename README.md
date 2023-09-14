@@ -29,7 +29,7 @@ Harmony_Chat offers the following features:
 </table>
 
 ## Video
-https://github.com/AnmarSammour/HarmonyChat/assets/112755848/56c37e25-0eb3-4130-b23f-2d866c333291
+[Watch Harmony_Chat in action](https://github.com/AnmarSammour/HarmonyChat/assets/112755848/20df19eb-30f8-4e88-a2e6-15e1c56394f3)
 
 ## Tools
 
